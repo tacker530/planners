@@ -1,0 +1,6 @@
+[
+ {"type":"polyline","latLngs":[{"lat":36.552842,"lng":136.654995},{"lat":36.558512,"lng":136.650097}],"color":"dodgerblue"}
+,{"type":"polyline","latLngs":[{"lat":36.552842,"lng":136.654995},{"lat":36.558524,"lng":136.659355}],"color":"dodgerblue"}
+,{"type":"polyline","latLngs":[{"lat":36.560655,"lng":136.654809},{"lat":36.558512,"lng":136.650097}],"color":"dodgerblue"}
+,{"type":"polyline","latLngs":[{"lat":36.560655,"lng":136.654809},{"lat":36.558524,"lng":136.659355}],"color":"dodgerblue"}
+]
